@@ -1,0 +1,33 @@
+/* css/stylize.css */
+
+body {
+    background-image: radial-gradient(circle, #2600ff, #000000);
+    background-color: #41709e;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #007bff;
+}
+
+.form-control,
+.form-control-file {
+    margin-bottom: 15px;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.mb-4{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.form-group{
+    border: #0000ff;
+}
+.fomacoes{
+    box-shadow: #ffffff;
+}
